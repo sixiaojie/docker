@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
-MAINTAINER roger chen
+FROM gcr.io/kubeguide/guestbook-redis-slave
+MAINTAINER jack si
